@@ -1,6 +1,6 @@
 # ARGATU - Web Profile
 ### Deskripsi
-ARGATU adalah singkatan dari "Arek-arek RT.31" yang merupakan sebuah kelompok perkumpulan anak muda yang sudah berdiri sejak tahun 2009 hingga sekarang. Argatu beranggota tujuh orang dan masing-masing anggota memiliki hobi yang sama, yaitu suka touring dan mencintai kendaraan kendaraan roda dua.
+ARGATU adalah singkatan dari "Arek-arek RT.31" yang merupakan sebuah kelompok perkumpulan anak muda yang sudah berdiri sejak tahun 2009 hingga sekarang. Argatu beranggota tujuh orang dan masing-masing anggota memiliki hobi yang sama, yaitu suka touring dan mencintai kendaraan roda dua.
 
 Website ini dibuat untuk menampilkan informasi mengenai komunitas ARGATU, daftar anggota, dan kontak yang dapat dihubungi.
 
